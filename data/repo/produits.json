@@ -41,7 +41,7 @@
     {
         "id": 3,
         "serial": "yoytr",
-        "nom": "kiwi",
+        "nom": "prune",
         "description": "pas un jouet",
         "prix": 2.23,
         "qte_inventaire": 41,
@@ -54,7 +54,7 @@
     {
         "id": 4,
         "serial": "vmnmvm",
-        "nom": "cerise",
+        "nom": "bleuet",
         "description": "pas un jouet",
         "prix": 2.23,
         "qte_inventaire": 50,
@@ -67,7 +67,7 @@
     {
         "id": 5,
         "serial": "hkjhkh",
-        "nom": "chou",
+        "nom": "artichaud",
         "description": "pas un jouet",
         "prix": 2.23,
         "qte_inventaire": 49,
@@ -80,7 +80,7 @@
     {
         "id": 6,
         "serial": "sfsf",
-        "nom": "salade",
+        "nom": "celeris",
         "description": "pas un jouet",
         "prix": 2.23,
         "qte_inventaire": 49,
@@ -93,7 +93,7 @@
     {
         "id": 7,
         "serial": "qwrt",
-        "nom": "piment",
+        "nom": "courgette",
         "description": "pas un jouet",
         "prix": 2.23,
         "qte_inventaire": 48,
